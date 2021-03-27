@@ -1,0 +1,17 @@
+#gradle ignore
+.gradle
+gradle-app.setting
+.gradletasknamecache
+
+#intelij ignore
+.idea
+
+#netbeans ignore
+.nb-gradle
+
+#ignore compiled jars
+*.jar
+
+!gradle-wrapper.jar
+
+build
